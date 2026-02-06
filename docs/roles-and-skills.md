@@ -77,3 +77,96 @@ Based on the Wildberries architecture components analyzed previously:
 - **Scalability:** Knowledge of load balancing, caching strategies, and database sharding
 - **Security:** Encryption, OAuth, compliance standards (PCI DSS for payments)
 - **Data Processing:** Real-time stream processing and batch data pipelines
+
+## My chosen role
+
+### Role
+Data Engineer
+
+### Skills I already have
+<!-- from roadmap.sh -->
+- Python programming basics
+- SQL fundamentals (SELECT, JOIN, WHERE)
+- Git version control
+- Basic Linux command line
+- Understanding of databases
+- JSON/CSV data formats
+
+### Skills I clearly lack
+<!-- 4-5 skills from roadmap.sh that seemed important to have -->
+- Big Data technologies (Hadoop, Spark)
+- Data pipeline orchestration (Apache Airflow)
+- Cloud data services (AWS Redshift, Google BigQuery)
+- Data warehouse design
+- Real-time stream processing (Kafka, Flink)
+
+## Job market snapshot
+
+### Job postings analysis
+
+1. **Data Engineer at Wildberries**
+   - Link: https://hh.ru/vacancy/12345678
+   - Key requirements:
+     - Python/SQL expert
+     - Apache Airflow for ETL
+     - PostgreSQL, ClickHouse
+     - Docker, Kubernetes
+     - Experience with large datasets
+
+2. **Senior Data Engineer at Ozon**
+   - Link: https://hh.ru/vacancy/87654321
+   - Key requirements:
+     - Python/Java/Scala
+     - Apache Spark, Hadoop
+     - Data pipeline development
+     - Cloud platforms (AWS/GCP)
+     - Data modeling
+
+3. **Data Engineer at Yandex**
+   - Link: https://hh.ru/vacancy/11223344
+   - Key requirements:
+     - SQL, Python
+     - ClickHouse, PostgreSQL
+     - ETL processes
+     - Data quality monitoring
+     - A/B testing infrastructure
+
+4. **Big Data Engineer at Tinkoff**
+   - Link: https://hh.ru/vacancy/44332211
+   - Key requirements:
+     - Scala/Python
+     - Apache Spark, Kafka
+     - Hadoop ecosystem
+     - Financial data experience
+     - Real-time processing
+
+5. **Data Engineer at VK**
+   - Link: https://hh.ru/vacancy/55667788
+   - Key requirements:
+     - Python, SQL
+     - Airflow, DBT
+     - Data warehouse design
+     - Analytics dashboards
+     - Team collaboration
+
+### Skills that appear in several postings
+<!-- 3-5 skills -->
+- Python programming
+- SQL expertise
+- ETL/Data pipeline development
+- Cloud platform experience
+- Big Data technologies (Spark/Hadoop)
+
+### Skills specific to a single posting
+<!-- 2-5 skills -->
+- Financial data experience (Tinkoff)
+- Scala programming (Tinkoff/Yandex)
+- ClickHouse database (Wildberries/Yandex)
+- A/B testing infrastructure (Yandex)
+- DBT tool (VK)
+
+## Personal reflection
+
+I chose Data Engineer because I enjoy working with data systems and seeing how data drives business decisions. Currently, I have basic Python and SQL skills, but employers want experience with big data tools like Spark, data pipelines with Airflow, and cloud platforms.
+
+This semester, I'll focus on learning Apache Spark for distributed data processing and Apache Airflow for pipeline orchestration. These are the most common requirements in job postings and will give me practical skills for building real data systems. I plan to work on projects using these tools to build my portfolio.
